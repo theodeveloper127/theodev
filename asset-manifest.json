@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/theodev/static/css/main.a42f2b7a.css",
+    "main.js": "/theodev/static/js/main.c5f41bb6.js",
+    "static/js/415.4d6acbeb.chunk.js": "/theodev/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/theodev/static/js/787.1ed0c42c.chunk.js",
+    "static/media/quickrun.png": "/theodev/static/media/quickrun.6248fc610b664d2a391d.png",
+    "static/media/mbox.png": "/theodev/static/media/mbox.eaeb7b02cee70bd527ae.png",
+    "static/media/theo1.png": "/theodev/static/media/theo1.b2f5c3d88b5819dc5154.png",
+    "static/media/orrapo.png": "/theodev/static/media/orrapo.ea6ed823286097ad9d9e.png",
+    "static/media/computerskills.pdf": "/theodev/static/media/computerskills.517b13bd753f4b742325.pdf",
+    "static/media/zamuka.png": "/theodev/static/media/zamuka.5d82de1da6cb4a434e61.png",
+    "static/media/home-main.svg": "/theodev/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/theodev/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/theodev/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/theodev/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/theodev/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/theodev/index.html",
+    "main.a42f2b7a.css.map": "/theodev/static/css/main.a42f2b7a.css.map",
+    "main.c5f41bb6.js.map": "/theodev/static/js/main.c5f41bb6.js.map",
+    "415.4d6acbeb.chunk.js.map": "/theodev/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/theodev/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42f2b7a.css",
+    "static/js/main.c5f41bb6.js"
+  ]
+}
